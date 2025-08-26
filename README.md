@@ -1,5 +1,11 @@
 # Spotify Album Ranking App
 Like it sounds. Saves your scores for songs and albums, and lets you view album scores.
+
+For example, this is when you rank an album:
+
+![img](img.PNG)
+
+## What it does
 There are three types of scores:
 * Cohesive Experience - whole album score. Controlled with a slider.
 * Replay Value - whole album score. Controlled with a slider.
@@ -29,6 +35,5 @@ In your cmd, run from the correct directory:
     python3 SpotifyRank.py
 
 Otherwise:
-
 
     python3 <path_to_script>/SpotifyRank.py
