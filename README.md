@@ -27,7 +27,7 @@ The app also saves the rankings for future use. By default it saves them in Spot
     git clone https://github.com/roy-urbach/CLoSeR.git
 or
 
-    git@github.com:roy-urbach/CLoSeR.git
+    git clone git@github.com:roy-urbach/CLoSeR.git
 
 ## Usage
 In your cmd, run from the correct directory:
@@ -37,3 +37,4 @@ In your cmd, run from the correct directory:
 Otherwise:
 
     python3 <path_to_script>/SpotifyRank.py
+
