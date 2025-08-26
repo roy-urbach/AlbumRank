@@ -7,7 +7,7 @@ There are three types of scores:
 
 The final album score is calculated as such:
 
-$ score = clip(s + \frac{c + r}{10} - 1, \[0,10\]) $
+$score = clip(s + \frac{c + r}{10} - 1, \[0,10\])$
 
 where $s$ is the average over the songs on the album, $c$ is the cohesive experience and $r$ is the replay value.
 $clip$ mean we clip the value between 0 and 10.
@@ -29,5 +29,6 @@ In your cmd, run from the correct directory:
     python3 SpotifyRank.py
 
 Otherwise:
+
 
     python3 <path_to_script>/SpotifyRank.py
