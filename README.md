@@ -1,5 +1,6 @@
-# Spotify Album Ranking App
+# Album Ranking App
 Like it sounds. Saves your scores for songs and albums, and lets you view album scores.
+Uses Spotify API.
 
 For example, this is when you rank an album:
 
@@ -37,4 +38,5 @@ In your cmd, run from the correct directory:
 Otherwise:
 
     python3 <path_to_script>/SpotifyRank.py
+
 
