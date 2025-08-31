@@ -25,18 +25,19 @@ The app requires API **CLIENT_ID** and **CLIENT_SECRET**. You can set those up i
 The app also saves the rankings for future use. By default it saves them in SpotifyRanks/, but you can change **PATH** in [consts.py](consts.py).
 
 ## Installation
-    git clone https://github.com/roy-urbach/CLoSeR.git
+    git clone https://github.com/roy-urbach/AlbumRank.git
 or
 
-    git clone git@github.com:roy-urbach/CLoSeR.git
+    git clone git@github.com:roy-urbach/AlbumRank.git
 
 ## Usage
 In your cmd, run from the correct directory:
 
-    python3 SpotifyRank.py
+    python3 AlbumRank.py
 
 Otherwise:
 
-    python3 <path_to_script>/SpotifyRank.py
+    python3 <path_to_script>/AlbumRank.py
+
 
 
